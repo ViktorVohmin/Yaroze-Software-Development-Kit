@@ -1,0 +1,11 @@
+# Created by rsdform(v1.81) from "a.rsd" at 11:26 05/13/96
+# Created by rsdform(v1.81) -s 100 100 100 from "pman01.rsd" at 11:26 05/13/96
+# Created by rsdform(v1.8) from "a.rsd" at 02:05 04/22/96
+# Created by rsdform(v1.8) -r 90 0 0 from "pman01.rsd" at 02:05 04/22/96
+# Created from "C:\USR\PMAN\PMAN01.DXF" by dxf2rsd(v2.8) -quad3 -r -nopl -Y+Z at 02:04 04/22/96
+@RSD940102
+PLY=pman01.ply
+MAT=pman01.mat
+GRP=pman01.grp
+# Number of Texture Files
+NTEX=0

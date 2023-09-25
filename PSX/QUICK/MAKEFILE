@@ -1,0 +1,34 @@
+C_FLAGS  = -O3
+LINKER  = -Xlinker -Map -Xlinker mapfile -Xlinker -Ttext -Xlinker 80100000
+
+##### all: tuto1 tuto0
+
+all: tuto0 tuto1
+
+
+
+
+####		executable depends on its object files
+####		and is created/updated by linking them together
+
+tuto0: tuto0.o pad.o
+	gcc $(LINKER) tuto0.o pad.o -o tuto0
+
+####		object file depends on source and header files
+####		and is created/updated by compilation
+
+tuto0.o: tuto0.c pad.h
+	gcc -c $(C_FLAGS) tuto0.c
+
+
+
+
+tuto1: tuto1.o
+	gcc $(LINKER) tuto1.o -o tuto1
+
+tuto1.o: tuto1.c
+	gcc -c $(C_FLAGS) tuto1.c
+
+
+
+   

@@ -1,0 +1,9 @@
+# Created by rsdform(v1.8) from "a.rsd" at 00:09 04/05/96
+# Created by rsdform(v1.8) -r 90 0 0 from "ap01.rsd" at 00:06 04/05/96
+# Created from "C:\USR\TEXTURE\MODEL\AP01\AP01.DXF" by dxf2rsd(v2.8) -quad3 -r -nopl -auto -Y+Z at 23:59 04/04/96
+@RSD940102
+PLY=ap01.ply
+MAT=ap01.mat
+GRP=ap01.grp
+# Number of Texture Files
+NTEX=0

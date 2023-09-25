@@ -1,0 +1,35 @@
+VabHdr
+	form = 'VABp'
+	ver = 0x7
+	id = 0
+	fsize = 0
+	ps = 1
+	ts = 1
+	vs = 1
+
+ProgAtr 0
+	tones = 1
+	mvol = 127
+	mpan = 64
+
+VagAtr 0 0
+	prior = 0
+	mode = 0
+	vol = 127
+	pan = 64
+	center = 60
+	shift = 0
+	min = 0
+	max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+	dr = 0
+	sr = 0
+	rr = 31
+	sl = 15
+	prog = 0
+	vag = 1
+
+vsize
+	0

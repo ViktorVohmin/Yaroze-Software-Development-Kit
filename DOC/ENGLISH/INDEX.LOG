@@ -1,0 +1,33 @@
+12/13/96 16:53:26: Starting build.
+12/13/96 16:53:26: Connecting to index.
+12/13/96 16:53:27: Searching: C:\DOCS\ENGLISH
+12/13/96 16:53:27: Indexing 3 documents.
+12/13/96 16:53:29: Extracting from c:\docs\english\usrguid.pdf.
+12/13/96 16:54:08: Extracting from c:\docs\english\startup.pdf.
+12/13/96 16:54:16: Extracting from c:\docs\english\libref.pdf.
+12/13/96 16:54:40: Removing index entries for changed or deleted documents.
+12/13/96 16:54:40: Removing unnecessary index entries.
+12/13/96 16:54:40: Building Word Assist List.
+12/13/96 16:54:45: Waiting for about 20 seconds to perform routine index update.
+12/13/96 16:55:06:   Total Acrobat files in all directories: 3
+12/13/96 16:55:06:   Total new files: 3
+12/13/96 16:55:06:   Total pages indexed: 581
+12/13/96 16:55:06:   Total number of files skipped: 0
+12/13/96 16:55:06:   Total deleted files: 0
+12/13/96 16:55:06: Index Build Successful.
+12/13/96 17:31:18: Starting build.
+12/13/96 17:31:18: Connecting to index.
+12/13/96 17:31:20: Searching: C:\DOCS\ENGLISH
+12/13/96 17:31:20: Indexing 1 documents.
+12/13/96 17:31:21: Extracting from c:\docs\english\libref.pdf.
+12/13/96 17:31:52: Removing index entries for changed or deleted documents.
+12/13/96 17:31:52: Removing unnecessary index entries.
+12/13/96 17:31:52: Removing C:\DOCS\ENGLISH\LIBREF.PDF from index.
+12/13/96 17:31:52: Building Word Assist List.
+12/13/96 17:31:56: Waiting for about 20 seconds to perform routine index update.
+12/13/96 17:32:17:   Total Acrobat files in all directories: 3
+12/13/96 17:32:17:   Total new files: 1
+12/13/96 17:32:17:   Total pages indexed: 329
+12/13/96 17:32:17:   Total number of files skipped: 0
+12/13/96 17:32:17:   Total deleted files: 1
+12/13/96 17:32:17: Index Build Successful.

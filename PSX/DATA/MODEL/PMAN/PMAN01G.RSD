@@ -1,0 +1,9 @@
+# Created by rsdform(v1.81) from "a.rsd" at 11:26 05/13/96
+# Created by rsdform(v1.81) -s 100 100 100 from "pman01g.rsd" at 11:26 05/13/96
+@RSD940102
+# created by Meditor on Mon Apr 22 02:05:41 1996
+PLY=pman01g.ply
+MAT=pman01g.mat
+GRP=pman01g.grp
+# Number of TIM (Texture) Files
+NTEX=0
